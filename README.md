@@ -10,4 +10,3 @@
 ---
 [1]: https://www.linkedin.com/in/manojfernando-web-developer/
 
-![LI-Logo](https://user-images.githubusercontent.com/24775258/148641274-29ec0f80-1488-48d5-9494-3fe4ed7bc0c9.png)
