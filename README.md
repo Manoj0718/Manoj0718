@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Manoj Fernando.. </h1>
 <p align="center">
-<a href="https://webdeveloper-ten.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=435&lines=+JavaScript+Full+stack+Web+Developer+;Digital+Marketer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=435&lines=+JavaScript+Full+stack+Web+Developer+;Digital+Marketer" alt="Typing SVG" />
 </p>
 
 ![official banner linkedin](https://user-images.githubusercontent.com/24775258/148641157-ba7da5fe-8787-46bb-abdf-b4981211dd71.png)
