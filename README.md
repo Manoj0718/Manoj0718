@@ -1,20 +1,20 @@
+
 <h1 align="center"> 👋 Hello, I'm Manoj Fernando.. </h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=435&lines=+JavaScript+Full+stack+Web+Developer+;Digital+Marketer;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=435&lines=+JavaScript+Full+stack+Web+Developer+;Digital+Marketer" alt="Typing SVG" /></a>
 </p>
 
 ![official banner linkedin](https://user-images.githubusercontent.com/24775258/148641157-ba7da5fe-8787-46bb-abdf-b4981211dd71.png)
 
 I'm on a journey to become a Full Stack Developer with a passion for web development, open source, and IT opportunities. Here's a bit about me:
-         
--  🔗 Actively looking for open-source projects to contribute to and collaborate with the community.
+               
+-  🔗 Actively looking for open source projects to contribute to and collaborate with the community.
 - 🌱 Seeking job opportunities in the IT field to apply my knowledge and grow as a developer.
 -   🔭 I'm currently working on improving my understanding of Docker.
 
 ---
 
 ### 🧰 Languages and Tools
-
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png'>  
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'> 
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'> 
@@ -28,7 +28,6 @@ I'm on a journey to become a Full Stack Developer with a passion for web develop
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> 
 
 #
-
 ### Connect with me:
 
 <!-- Social icons section -->
