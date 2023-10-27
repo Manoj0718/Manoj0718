@@ -1,10 +1,10 @@
 ![official banner linkedin](https://user-images.githubusercontent.com/24775258/148641157-ba7da5fe-8787-46bb-abdf-b4981211dd71.png)
 
-# 🏄‍♂️ Forrest Knight
+# 👋 Hello, I'm Manoj..
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Fullstack Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm on a journey to become a Full Stack Developer with a passion for web development, open source, and IT opportunities. Here's a bit about me:
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
