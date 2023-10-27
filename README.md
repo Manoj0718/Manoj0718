@@ -6,11 +6,12 @@
 ![official banner linkedin](https://user-images.githubusercontent.com/24775258/148641157-ba7da5fe-8787-46bb-abdf-b4981211dd71.png)
 
 I'm on a journey to become a Full Stack Developer with a passion for web development, open source, and IT opportunities. Here's a bit about me:
+<p align="center">
                
 -  🔗 Actively looking for open-source projects to contribute to and collaborate with the community.
 - 🌱 Seeking job opportunities in the IT field to apply my knowledge and grow as a developer.
 -   🔭 I'm currently working on improving my understanding of Docker.
-
+</p>
 ---
 
 ### 🧰 Languages and Tools
