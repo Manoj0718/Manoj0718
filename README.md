@@ -1,4 +1,3 @@
-
 <h1 align="center"> 👋 Hello, I'm Manoj Fernando.. </h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=435&lines=+JavaScript+Full+stack+Web+Developer+;Digital+Marketer" alt="Typing SVG" /></a>
