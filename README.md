@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Manoj..
 
-**`Fullstack Developer`**
+**`JavaScript Fullstack Web Developer `**
 
 I'm on a journey to become a Full Stack Developer with a passion for web development, open source, and IT opportunities. Here's a bit about me:
 
