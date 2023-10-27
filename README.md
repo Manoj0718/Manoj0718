@@ -28,4 +28,5 @@ I'm on a journey to become a Full Stack Developer with a passion for web develop
 <img align="left" height="60" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU'> 
 <img align="left" height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> 
 
----
+#
+### Connect with me:
