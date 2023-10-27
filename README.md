@@ -8,7 +8,7 @@
 
 I'm on a journey to become a Full Stack Developer with a passion for web development, open source, and IT opportunities. Here's a bit about me:
                
--  🔗 Actively looking for open source projects to contribute to and collaborate with the community.
+-  🔗 Actively looking for open-source projects to contribute to and collaborate with the community.
 - 🌱 Seeking job opportunities in the IT field to apply my knowledge and grow as a developer.
 -   🔭 I'm currently working on improving my understanding of Docker.
 
