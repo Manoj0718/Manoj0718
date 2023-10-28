@@ -31,4 +31,4 @@ I'm on a journey to become a Full Stack Developer with a passion for web develop
 
 Feel free to contact me
 
-<a href="https://www.linkedin.com/in/manojfernando-web-developer/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:flyindessert@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" /></a>&ensp;&ensp;
+<a href="https://www.linkedin.com/in/manojfernando-web-developer/" target='_blank'><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:flyindessert@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" /></a>&ensp;&ensp;
